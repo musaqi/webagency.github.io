@@ -1,0 +1,18 @@
+#image-logo
+{
+    height: 100px;
+    width: auto;
+    border-radius: 20px;
+} 
+
+ .figure {
+     height: 400px;
+     width: 400px;
+     border-radius: 50px;
+ }
+ .figure-caption {
+     font-weight: bold;
+     font-size: large;
+     text-align: center;
+ }
+ 
